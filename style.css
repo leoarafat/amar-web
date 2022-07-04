@@ -22,12 +22,12 @@ h1{
 }
 .left-div{
     width: 50%;
-    margin-left: 2%;
+    margin-left: 5%;
     padding: 10px;
 }
 .right-div{
     width: 50%;
-    margin-left: 2%;
+    margin-left: 5%;
 }
 .banner-image{
     width: 80%;
@@ -39,4 +39,13 @@ padding: 10px 40px;
 border-radius: 5px;
 color: white;
 font-weight: bolder;
+}
+.dream-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-img{
+    width: 80%;
 }

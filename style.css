@@ -6,3 +6,37 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 35px;}
+
+
+.span-class{
+    color: orange;
+}
+.banner-section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+
+}
+.left-div{
+    width: 50%;
+    margin-left: 2%;
+    padding: 10px;
+}
+.right-div{
+    width: 50%;
+    margin-left: 2%;
+}
+.banner-image{
+    width: 80%;
+}
+.btn{
+text-decoration: none;
+background-image: linear-gradient(orange, tomato);
+padding: 10px 40px;
+border-radius: 5px;
+color: white;
+font-weight: bolder;
+}
